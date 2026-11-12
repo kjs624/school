@@ -10,10 +10,6 @@
 - 비밀번호 로그인 (본인 한 명만 사용)
 - Supabase 무료 플랜 일시 정지 방지 (매일 자동 기록)
 
-| 컴퓨터 | 휴대폰 |
-|---|---|
-| ![](docs/screen-panel.png) | ![](docs/screen-mobile.png) |
-
 ## 구성
 
 - Next.js 15 (Vercel 배포)
